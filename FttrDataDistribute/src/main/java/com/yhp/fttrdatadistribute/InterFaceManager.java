@@ -1,7 +1,6 @@
-package com.example.fttrdatadistribute;
+package com.yhp.fttrdatadistribute;
 
 import android.util.Log;
-
 
 import java.util.ArrayList;
 import java.util.HashMap;

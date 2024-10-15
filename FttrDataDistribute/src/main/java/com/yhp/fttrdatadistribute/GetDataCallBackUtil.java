@@ -1,4 +1,4 @@
-package com.example.fttrdatadistribute;
+package com.yhp.fttrdatadistribute;
 
 
 public class GetDataCallBackUtil {

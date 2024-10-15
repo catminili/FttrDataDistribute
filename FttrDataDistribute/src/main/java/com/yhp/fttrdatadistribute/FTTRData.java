@@ -1,4 +1,4 @@
-package com.example.fttrdatadistribute;
+package com.yhp.fttrdatadistribute;
 
 import com.alibaba.fastjson.JSONObject;
 
